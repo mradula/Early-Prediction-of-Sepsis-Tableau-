@@ -40,7 +40,7 @@ Clear communication of medical trends
 # About Me
 This project demonstrates my ability to transform ICU clinical datasets, including key biomarkers for sepsis, into interactive Tableau visualizations. It showcases how complex patient data can be analyzed and presented to support early sepsis detection and data-driven clinical decision-making.
 
-[Tableau Public Profile]([https://public.tableau.com/](https://public.tableau.com/app/profile/mradula/viz/) "Check my Tableau dashboards"
+[Tableau Public Profile]([https://public.tableau.com/](https://public.tableau.com/app/profile/mradula/viz/)
 
 # If you found this useful
 Give the repo a ⭐ and connect with me for collaborations in:
